@@ -28,18 +28,23 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 [<img align="left" alt="Typescript" height="30px" src="https://img2.pngio.com/microsoft-delivers-typescript-30-angular-support-coming-soon-typescript-png-816_816.png" />][Typescript]
 [<img align="left" alt="Vue" height="40px" src="https://a.storyblok.com/f/39898/1024x1024/dea4e1b62d/vue-js_logo-svg.png" />][Vue]
 [<img align="left" alt="Gridsome" height="32px" src="https://raw.githubusercontent.com/gridsome/gridsome/master/assets/logo.png" />][Gridsome]
-[<img align="left" alt="Composer" height="32px" src="https://image.flaticon.com/icons/png/512/919/919840.png" />][Composer]
+[<img align="left" alt="Python" height="30px" src="https://dwain.mylaserlevelguide.com/pic/13570248_full-clipart-python-76-python-python-log-python-logo-clipart-clipartlook.png" />][Python]
 [<img align="left" alt="Node" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />][Node]
+[<img align="left" alt="PHP" height="30px" src="https://www.vippng.com/png/full/229-2290124_abraia-php-api-library-logo-php-en-png.png" />][PHP]
 
 
 <br />
 <br />
 
 [<img align="left" alt="Sass" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" />][SASS]
-<img align="left" alt="MySQL" height="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
-<img align="left" alt="Python" height="30px" src="https://dwain.mylaserlevelguide.com/pic/13570248_full-clipart-python-76-python-python-log-python-logo-clipart-clipartlook.png" />
-<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="Git" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
+[<img align="left" alt="MySQL" height="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />][MySQL]
+[<img align="left" alt="Composer" height="32px" src="https://image.flaticon.com/icons/png/512/919/919840.png" />][Composer]
+[<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][Visual Studio Code]
+[<img align="left" alt="Git" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />][Git]
+[<img align="left" alt="NPM" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png" />][NPM]
+[<img align="left" alt="Brew" height="30px" src="https://brew.sh/assets/img/homebrew-256x256.png" />][Brew]
+[<img align="left" alt="GULP" height="32px" src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" />][GULP]
+
 
 <br />
 <br />
@@ -56,3 +61,11 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 [SASS]: https://sass-lang.com/
 [Javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Typescript]: https://www.typescriptlang.org/
+[MySQL]: https://www.mysql.com/
+[Python]: https://www.python.org/
+[Visual Studio Code]: https://code.visualstudio.com/
+[Git]: https://git-scm.com/
+[NPM]: https://www.npmjs.com/
+[Brew]: https://brew.sh/
+[PHP]: https://www.php.net/
+[GULP]: https://gulpjs.com/
