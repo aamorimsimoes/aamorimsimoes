@@ -6,7 +6,7 @@
 ## Hi there!
 
 I'm a recent graduate developer. I have some projects hosted, so feel free to check out. 
-Currently with my fullstack course completed, i'm searching for a web developer job vacancy. In my free time i'm doing online courses such as advanced Javascript in order to consolidate knowledge.
+Currently with my fullstack course completed, i'm searching for a web developer job vacancy. In my free time I'm doing online courses such as advanced Javascript in order to consolidate knowledge.
 I genuinely love learning, is something i find incredibly rewarding and challenging. 
 
 So, if you have know of any exciting opportunities that you feel would be a good fit please feel free to let me know.
