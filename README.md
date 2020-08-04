@@ -1,30 +1,27 @@
-### Hi there 👋
 
 <!--
 **aamorimsimoes/aamorimsimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="left" alt="test" src="https://www.flaticon.com/free-icon/linkedin_174857" />
 
-Here are some ideas to get you started:
+## Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+I am a developer with knowledge of Javascript and PHP. I have some projects hosted, so feel free to check out. 
+Currently with my fullstack course completed, i'm searching for a web developer job vacancy. In my free time i'm doing online courses such as advanced Javascript in order to consolidate knowledge.
+I genuinely love learning, is something i find incredibly rewarding and challenging. 
 
+So, if you have know of any exciting opportunities that you feel would be a good fit please feel free to let me know.
+
+Thanks for taking the time to go over my summary and if you'd like to see some of my work check out my portfolio.
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="aamorim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andreamorimsimoes)
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
