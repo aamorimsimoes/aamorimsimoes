@@ -33,9 +33,6 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 [<img align="left" alt="PHP" height="40px" src="https://www.vippng.com/png/full/229-2290124_abraia-php-api-library-logo-php-en-png.png" />][PHP]
 [<img align="left" alt="Sass" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" />][SASS]
 
-<br />
-<br />
-
 
 [<img align="left" alt="MySQL" height="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />][MySQL]
 [<img align="left" alt="Composer" height="42px" src="https://image.flaticon.com/icons/png/512/919/919840.png" />][Composer]
