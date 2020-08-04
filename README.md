@@ -28,14 +28,14 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 <img align="left" alt="Javascript" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGnwhltDp6v141Wc08D17U-3zGku-gjJEgNg&usqp=CAU" />
 <img align="left" alt="Typescript" height="30px" src="https://img2.pngio.com/microsoft-delivers-typescript-30-angular-support-coming-soon-typescript-png-816_816.png" />
 <img align="left" alt="Vue" height="32px" src="https://a.storyblok.com/f/39898/1024x1024/dea4e1b62d/vue-js_logo-svg.png" />
-[<img align="left" alt="Composer" height="32px" src="https://image.flaticon.com/icons/png/512/919/919840.png"][COMPOSER]
+[<img align="left" alt="Composer" height="32px" src="https://image.flaticon.com/icons/png/512/919/919840.png" />][composer]
 <img align="left" alt="Antd" height="30px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="Less" height="23px" src="https://prepros.io/img/home/less.png" />
 
 <br />
 <br />
 
-<img align="left" alt="Sass" height="30px" src="https://www.abeautifulsite.net/uploads/2017/02/sass.png?width=600&key=a18980ed50ba77f256a580d00ba54a8fe80d85f7a96bbe3ff3463890acc91fca" />
+<img align="left" alt="Sass" height="30px" src="https://www.abeautifulsite.net/uploads/2017/02/sass.png width=600&key=a18980ed50ba77f256a580d00ba54a8fe80d85f7a96bbe3ff3463890acc91fca" />
 <img align="left" alt="Jest" height="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png" />
 <img align="left" alt="Cypress" height="23px" src="https://miro.medium.com/max/836/0*9Int-Yddzzkf3Me3.png" />
 <img align="left" alt="Node" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
@@ -47,7 +47,7 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aamorimsimoes&show_icons=true&hide_border=true" />
+<img align="left" alt="aamorimsimoes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aamorimsimoes&show_icons=true&hide_border=true" />
 
 
-[COMPOSER]: https://getcomposer.org/
+[composer]: https://getcomposer.org/
