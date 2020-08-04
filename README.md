@@ -1,4 +1,3 @@
-
 <!--
 **aamorimsimoes/aamorimsimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -23,8 +22,8 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 
 ## Languages and Tools:
 
-<img align="left" alt="HTML5" height="30px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
-<img align="left" alt="CSS3" height="30px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />
+[<img align="left" alt="HTML5" height="30px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />][HTML5]
+[<img align="left" alt="CSS3" height="30px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />][CSS3]
 <img align="left" alt="Javascript" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGnwhltDp6v141Wc08D17U-3zGku-gjJEgNg&usqp=CAU" />
 <img align="left" alt="Typescript" height="30px" src="https://img2.pngio.com/microsoft-delivers-typescript-30-angular-support-coming-soon-typescript-png-816_816.png" />
 <img align="left" alt="Vue" height="32px" src="https://a.storyblok.com/f/39898/1024x1024/dea4e1b62d/vue-js_logo-svg.png" />
@@ -50,4 +49,5 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 <img align="left" alt="aamorimsimoes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aamorimsimoes&show_icons=true&hide_border=true" />
 
 
-[composer]: https://getcomposer.org/
+[HTML5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+[CSS3]: https://developer.mozilla.org/en-US/docs/Web/CSS
