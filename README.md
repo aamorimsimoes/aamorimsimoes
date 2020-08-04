@@ -6,7 +6,7 @@
 
 ## Hi there!
 
-I am a developer with knowledge of Javascript and PHP. I have some projects hosted, so feel free to check out. 
+I'm a recent graduate developer. I have some projects hosted, so feel free to check out. 
 Currently with my fullstack course completed, i'm searching for a web developer job vacancy. In my free time i'm doing online courses such as advanced Javascript in order to consolidate knowledge.
 I genuinely love learning, is something i find incredibly rewarding and challenging. 
 
