@@ -44,6 +44,7 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 [<img align="left" alt="NPM" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png" />][NPM]
 [<img align="left" alt="Brew" height="40px" src="https://brew.sh/assets/img/homebrew-256x256.png" />][Brew]
 [<img align="left" alt="GULP" height="42px" src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png" />][GULP]
+[<img align="left" alt="Webpack" height="42px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />][Webpack]
 
 
 <br />
@@ -69,3 +70,4 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 [Brew]: https://brew.sh/
 [PHP]: https://www.php.net/
 [GULP]: https://gulpjs.com/
+[Webpack]: https://webpack.js.org/
