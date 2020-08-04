@@ -24,20 +24,18 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 
 [<img align="left" alt="HTML5" height="30px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />][HTML5]
 [<img align="left" alt="CSS3" height="30px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />][CSS3]
-<img align="left" alt="Javascript" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGnwhltDp6v141Wc08D17U-3zGku-gjJEgNg&usqp=CAU" />
-<img align="left" alt="Typescript" height="30px" src="https://img2.pngio.com/microsoft-delivers-typescript-30-angular-support-coming-soon-typescript-png-816_816.png" />
-<img align="left" alt="Vue" height="32px" src="https://a.storyblok.com/f/39898/1024x1024/dea4e1b62d/vue-js_logo-svg.png" />
-[<img align="left" alt="Composer" height="32px" src="https://image.flaticon.com/icons/png/512/919/919840.png" />][composer]
-<img align="left" alt="Antd" height="30px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
-<img align="left" alt="Less" height="23px" src="https://prepros.io/img/home/less.png" />
+[<img align="left" alt="Javascript" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGnwhltDp6v141Wc08D17U-3zGku-gjJEgNg&usqp=CAU" />][Javascript]
+[<img align="left" alt="Typescript" height="30px" src="https://img2.pngio.com/microsoft-delivers-typescript-30-angular-support-coming-soon-typescript-png-816_816.png" />][Typescript]
+[<img align="left" alt="Vue" height="40px" src="https://a.storyblok.com/f/39898/1024x1024/dea4e1b62d/vue-js_logo-svg.png" />][Vue]
+[<img align="left" alt="Gridsome" height="32px" src="https://raw.githubusercontent.com/gridsome/gridsome/master/assets/logo.png" />][Gridsome]
+[<img align="left" alt="Composer" height="32px" src="https://image.flaticon.com/icons/png/512/919/919840.png" />][Composer]
+[<img align="left" alt="Node" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />][Node]
+
 
 <br />
 <br />
 
-<img align="left" alt="Sass" height="30px" src="https://www.abeautifulsite.net/uploads/2017/02/sass.png width=600&key=a18980ed50ba77f256a580d00ba54a8fe80d85f7a96bbe3ff3463890acc91fca" />
-<img align="left" alt="Jest" height="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png" />
-<img align="left" alt="Cypress" height="23px" src="https://miro.medium.com/max/836/0*9Int-Yddzzkf3Me3.png" />
-<img align="left" alt="Node" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
+[<img align="left" alt="Sass" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" />][SASS]
 <img align="left" alt="MySQL" height="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
 <img align="left" alt="Python" height="30px" src="https://dwain.mylaserlevelguide.com/pic/13570248_full-clipart-python-76-python-python-log-python-logo-clipart-clipartlook.png" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
@@ -51,3 +49,10 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 
 [HTML5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [CSS3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Composer]: https://getcomposer.org/
+[Vue]: https://vuejs.org/
+[Gridsome]: https://gridsome.org/
+[Node]: https://nodejs.org/en/
+[SASS]: https://sass-lang.com/
+[Javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Typescript]: https://www.typescriptlang.org/
