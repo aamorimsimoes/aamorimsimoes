@@ -27,8 +27,8 @@ Thanks for taking the time to go over my summary and if you'd like to see some o
 <img align="left" alt="CSS3" height="30px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />
 <img align="left" alt="Javascript" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGnwhltDp6v141Wc08D17U-3zGku-gjJEgNg&usqp=CAU" />
 <img align="left" alt="Typescript" height="30px" src="https://img2.pngio.com/microsoft-delivers-typescript-30-angular-support-coming-soon-typescript-png-816_816.png" />
-<img align="left" alt="React" height="30px" src="https://scand.com/wp-content/uploads/2019/10/React.js_logo-512.png" />
-<img align="left" alt="Redux-Saga" height="32px" src="https://user-images.githubusercontent.com/4254571/67069175-f38f7200-f19b-11e9-8a90-cf7dd763f86d.png" />
+<img align="left" alt="Vue" height="32px" src="https://a.storyblok.com/f/39898/1024x1024/dea4e1b62d/vue-js_logo-svg.png" />
+<img align="left" alt="Composer" height="32px" href="https://getcomposer.org/" src="https://image.flaticon.com/icons/png/512/919/919840.png" />
 <img align="left" alt="Antd" height="30px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="Less" height="23px" src="https://prepros.io/img/home/less.png" />
 
