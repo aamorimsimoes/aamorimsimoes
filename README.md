@@ -2,9 +2,6 @@
 **aamorimsimoes/aamorimsimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
-## Hi there!
-
 I'm a recent graduate developer. I have some projects hosted, so feel free to check out. 
 Currently with my fullstack course completed, I'm searching for a web developer job vacancy. In my free time I'm doing online courses such as advanced Javascript in order to consolidate knowledge.
 I genuinely love learning, is something I find incredibly rewarding and challenging. 
